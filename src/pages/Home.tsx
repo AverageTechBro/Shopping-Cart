@@ -1,5 +1,5 @@
 export function Home() {
     return(
-        <div>Hermanos no yo Soy</div>
+        <div>Go to Store</div>
     )
 }
