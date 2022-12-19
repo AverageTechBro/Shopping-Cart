@@ -22,12 +22,6 @@
       "name": "Yatch",
       "price": 1400000,
       "imgUrl": "https://png.pngitem.com/pimgs/s/117-1176538_yacht-png-download-super-yacht-png-transparent-png.png"
-    },
-    {
-      "id" : 5,
-        "name": "Jamal",
-          "price": 5,
-          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYXZ5Bj9-IBe1Cnt332TLKbk-ybfuVqhw_jA&usqp=CAU"
-        
     }
+    
   ]
